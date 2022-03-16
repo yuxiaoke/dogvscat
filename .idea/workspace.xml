@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e54d4a1-c826-4ae2-816d-84d03ea3f442" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>softmax</find>
+      <find>F</find>
+      <find>self.inplace</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cnn/cuda_vgg16.py" />
+        <option value="$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/models/vgg.py" />
+        <option value="$PROJECT_DIR$/cnn/txt/resnet50.py" />
+        <option value="$PROJECT_DIR$/cnn/resent50_test.py" />
+        <option value="$USER_HOME$/transfer_learning_tutorial.py" />
+        <option value="$PROJECT_DIR$/cnn/cnn_cudanew.py" />
+        <option value="$PROJECT_DIR$/cnn/All_module.py" />
+        <option value="$PROJECT_DIR$/cnn/vgg16_test.py" />
+        <option value="$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/models/inception.py" />
+        <option value="$PROJECT_DIR$/cnn/squeezenet_v0.py" />
+        <option value="$PROJECT_DIR$/cnn/inception_v3.py" />
+        <option value="$PROJECT_DIR$/cnn/cuda_cnn.py" />
+        <option value="$PROJECT_DIR$/cnn/fristcnn.py" />
+        <option value="$PROJECT_DIR$/cnn/model_test.py" />
+        <option value="$PROJECT_DIR$/cnn/resnet50.py" />
+        <option value="$PROJECT_DIR$/cnn/0502_cuda.py.ipynb" />
+        <option value="$PROJECT_DIR$/cnn/0502_cuda.py" />
+        <option value="$PROJECT_DIR$/cnn/vgg16.py" />
+        <option value="$PROJECT_DIR$/cnn/0502.py" />
+        <option value="$PROJECT_DIR$/cnn/show_img.py" />
+        <option value="$PROJECT_DIR$/cnn/alexnet0509.py" />
+        <option value="$PROJECT_DIR$/cnn/py/show_img.py" />
+        <option value="$PROJECT_DIR$/cnn/py/0502.py" />
+        <option value="$PROJECT_DIR$/cnn/vgg16_image_show.py" />
+        <option value="$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/models/resnet.py" />
+        <option value="$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py" />
+        <option value="$PROJECT_DIR$/cnn/py/alexnet0509.py" />
+        <option value="$PROJECT_DIR$/cnn/py/vgg16.py" />
+        <option value="$PROJECT_DIR$/cnn/py/vgg16_test.py" />
+        <option value="$PROJECT_DIR$/cnn/alexnet_image_show.py" />
+        <option value="$PROJECT_DIR$/cnn/py/fristcnn.py" />
+        <option value="$PROJECT_DIR$/cnn/py/alexnet0523.py" />
+        <option value="$PROJECT_DIR$/cnn/11.py" />
+        <option value="$PROJECT_DIR$/cnn/py/alexnet_init.py" />
+        <option value="$PROJECT_DIR$/cnn/py/11.py" />
+        <option value="$PROJECT_DIR$/cnn/py/alexnet0620.py" />
+        <option value="$PROJECT_DIR$/cnn/py/tensorboard.py" />
+        <option value="$PROJECT_DIR$/cnn/py/alexnet0619.py" />
+        <option value="$USER_HOME$/Desktop/save_roi_threads.py" />
+        <option value="$USER_HOME$/Desktop/printscreen.py" />
+        <option value="$USER_HOME$/Desktop/change_xml_printscreen .py" />
+        <option value="$USER_HOME$/Desktop/change_xml_printscreen.py" />
+        <option value="$PROJECT_DIR$/cnn/resnet50_image_show.py" />
+        <option value="$PROJECT_DIR$/../DeepLearningTutorial-master/ImageClassification/train_alexnet.py" />
+        <option value="D:/资源库/dogvscat/cnn/0502_cuda.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="509" />
+    <option name="y" value="465" />
+    <option name="width" value="1" />
+    <option name="height" value="29" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dogvscat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dogvscat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dogvscat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dogvscat" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="class_names&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.resnet50_image_show">
+    <configuration name="alexnet0619" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cat_vs_dog _cputest0417" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnn/py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn/py/alexnet0619.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change_xml_printscreen " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cat_vs_dog _cputest0417" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/change_xml_printscreen .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resnet50 (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="cat_vs_dog _cputest0417" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn/resnet50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resnet50_image_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cat_vs_dog _cputest0417" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn/resnet50_image_show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_roi_threads" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cat_vs_dog _cputest0417" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/save_roi_threads.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cat_vs_dog _cputest0417" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnn/py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn/py/tensorboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.resnet50 (1)" />
+      <item itemvalue="Python.alexnet0619" />
+      <item itemvalue="Python.tensorboard" />
+      <item itemvalue="Python.save_roi_threads" />
+      <item itemvalue="Python.change_xml_printscreen " />
+      <item itemvalue="Python.resnet50_image_show" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.resnet50_image_show" />
+        <item itemvalue="Python.change_xml_printscreen " />
+        <item itemvalue="Python.save_roi_threads" />
+        <item itemvalue="Python.alexnet0619" />
+        <item itemvalue="Python.tensorboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e54d4a1-c826-4ae2-816d-84d03ea3f442" name="Default" comment="" />
+      <created>1523945168381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523945168381</updated>
+      <workItem from="1605274722919" duration="2519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2519000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23294243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14933333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.230486" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14933333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="outputs" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/modules/activation.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/functional.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/init.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/modules/batchnorm.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/modules/module.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/models/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-208625944/__builtin__.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/modules/linear.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/nn/modules/conv.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/datasets/folder.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/torch/utils/data/dataloader.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dogvscat/lib/python2.7/site-packages/torch/optim/lr_scheduler.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dogvscat/lib/python2.7/site-packages/validate.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/models/alexnet.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dogvscat/lib/python2.7/site-packages/torch/nn/modules/module.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/alexnet_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1958">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/py/alexnet0620.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/tensorboard.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/alexnet0523.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/11.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/cuda_cnn.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/fristcnn.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/resnet50.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/alexnet0619.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/954678587/__builtin__.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/125240792/cv2/cv2/__init__.py" />
+    <entry file="file://$USER_HOME$/Desktop/printscreen.py" />
+    <entry file="file://$USER_HOME$/Desktop/save_roi_threads.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python2/lib/python2.7/idlelib/configHandler.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python2/lib/python2.7/xml/dom/xmlbuilder.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/125240792/__builtin__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python2/lib/python2.7/xml/dom/minidom.py" />
+    <entry file="file://$USER_HOME$/Desktop/pascal_voc_io.py" />
+    <entry file="file://$USER_HOME$/Desktop/change_xml_printscreen .py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/change_xml_printscreen.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/torchvision/models/resnet.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/batchnorm.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/resnet50_image_show.py" />
+    <entry file="jar://$USER_HOME$/anaconda3/envs/pytorch/lib/python3.6/site-packages/torchvision-0.2.1-py3.6.egg!/torchvision/models/resnet.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/0502.py" />
+    <entry file="jar://$USER_HOME$/anaconda3/envs/pytorch/lib/python3.6/site-packages/torchvision-0.2.1-py3.6.egg!/torchvision/datasets/folder.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/utils/data/dataset.py" />
+    <entry file="file://$PROJECT_DIR$/cnn/py/alexnet0509.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="91" column="25" lean-forward="true" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/py/vgg16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/资源库/dogvscat/cnn/py/alexnet0509.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="105" column="36" lean-forward="true" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DeepLearningTutorial-master/ImageClassification/train_alexnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#63#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DeepLearningTutorial-master/ImageClassification/network/AlexNet.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch-cifar-master/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/0502_cuda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1144">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/资源库/dogvscat/cnn/0502_cuda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
