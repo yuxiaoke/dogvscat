@@ -1,0 +1,6 @@
+cnn/py 代码（CPU和GPU都有）
+cnn/log 一些打印信息
+data/train
+data/val 验证集
+data/test
+data/show 用来测试结果并图像化结果的
